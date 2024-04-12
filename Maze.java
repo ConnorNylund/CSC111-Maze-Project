@@ -106,7 +106,7 @@ public class Maze {
             }
         }
 
-        System.out.println("\nEnd of program"); // Print message end of program
+        System.out.println("\nEnd of program"); // Print message end of program.
     }
 
 }
